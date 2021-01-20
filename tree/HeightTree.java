@@ -1,5 +1,5 @@
 package tree;
-/*class Node{
+/*class Node{   //this is already define in tree package that why i comment this  
 	int data;
 	Node left;
 	Node right;
